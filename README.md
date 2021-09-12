@@ -15,4 +15,5 @@ envars.malaspina.surface.tsv: Environmental variables compiled by E. Villarino
 Includes 118 samples (stations) 
 
 NB: All OTU tables and the environmental tables are ordered following an increasing station numbering
+All files are in tsv format (tab separated values)
 
